@@ -1,0 +1,48 @@
+	
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+	- 	You dont have to look thru the whole file, just the lines that differ in the files. 
+		A lot easier.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+	-	Looking back on previous files and their history you may discover any 'errors'
+		done, and how/when they where corrected.   
+		You may learn by the mistakes, and that will make you a more effecient programmer in the end.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+ 	- pros
+ 		you commit files that compile / run after adding new functionality or fixing an error.   
+ 		the commit 'make sence' since the change contain new functionality or an error-fix.  
+ 		no local copies og the file, just the file.
+ 	- cons 
+ 		you may commit a file that doesn't compile or run.
+ 		the commit 'make no sense' to you, regarding changes in functionality or error-fixes added to the file.
+ 		you end up with many local copies of the file.
+    
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+	- In coding you often hav to make changes in different files when e.g adding a new function.
+	  The changes are logical connected and it is practical to se them as one change. 
+
+How can you use the commands git log and git diff to view the history of files?
+	- Using git log you can see evry commit done in the repository, by who and when.
+	- Using git diff you can "compare" tho commit's and see the difference. 
+	  What is added, what is deleted, what is changed.   
+
+
+How might using version control make you more confident to make changes that
+could break something?
+	- Because you can always go back to previous versions and compere them with new ones if anything goes wrong
+	  You can get a previous version using git checkout id....	
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	- To be more comfortable programming, ceeping track of changes(new functionality, correcting bugs, general changes) 
+	  made to the program.
+	- And not to bee afraid to experiment with code. You can always go back to a previous version.
+
+
