@@ -2,4 +2,10 @@
 What happens when you initialize a repository? Why do you need to do it?
 	- You are creating a .git catalogue in the "current directory"
 	- You have to do this i create/initialize a new empty repository to keep track of files and changes. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	- The working directory contais all your files
+	- The staging area contains the files added there from your working directory. 
+	  This is files you want to commit to teh repository.
+	- The repository contains all the files previously comitted from the staging area.
 	

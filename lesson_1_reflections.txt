@@ -19,8 +19,8 @@ docs does?
  		no local copies og the file, just the file.
  	- cons 
  		you may commit a file that doesn't compile or run.
- 		the commit 'make no sense' to you, regarding changes in functionality or error-fixes added to the file.
- 		you end up with many local copies of the file.
+	 		the commit 'make no sense' to you, regarding changes in functionality or error-fixes added to the file.
+	 		you end up with many local copies of the file.
     
 
 Why do you think some version control systems, like Git, allow saving multiple
