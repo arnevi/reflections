@@ -20,3 +20,8 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 	- I it easier too see the whole picture when drawing it in a diagram.
 	  Make it easier to get a good overwiev.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	-	The result of merging two branches together is ending up with one branch(the currently cheked out branch)
+		containing differences/changes from both branches.
+		Representing the differen branches in a diagram, makes it easier to visialize the merge of the branches.
