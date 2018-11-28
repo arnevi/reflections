@@ -13,8 +13,13 @@ automatically stay up-to-date with your remote repository?
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
+	Branching means you diverge from the main line of development and continue to do work without messing with that main line.
+		If you e.g. want to experiment with code you may create a branch to work on.
+	By cloning you get a 'local copy' of an GitHub repository. You clone/copy a GitHub repository to your local machine. 
+		If you want to contribute to a GitHub repository, you can clone a GitHub repository to get a local copy.
+	A fork can bee seen as a clone that GitHub makes on their machine 
+		If you want too share your code in the GitHub repository with others, but dont want to allow changes, you can allow forking your repository on GitHub.
 
-    Fill in your answer here
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
